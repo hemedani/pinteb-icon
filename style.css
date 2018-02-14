@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?bde6l2');
-  src:  url('fonts/icomoon.eot?bde6l2#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?bde6l2') format('truetype'),
-    url('fonts/icomoon.woff?bde6l2') format('woff'),
-    url('fonts/icomoon.svg?bde6l2#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?59i478');
+  src:  url('fonts/icomoon.eot?59i478#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?59i478') format('truetype'),
+    url('fonts/icomoon.woff?59i478') format('woff'),
+    url('fonts/icomoon.svg?59i478#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -27,16 +27,16 @@
 .icon-healthcare:before {
   content: "\e900";
 }
-.icon-healthy-food:before {
+.icon-healthy_food:before {
   content: "\e901";
 }
 .icon-office:before {
   content: "\e902";
 }
-.icon-organic-products:before {
+.icon-organic_products:before {
   content: "\e903";
 }
-.icon-retail-seller:before {
+.icon-retail_seller:before {
   content: "\e904";
 }
 .icon-sweetheart:before {

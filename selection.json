@@ -53,7 +53,7 @@
         {}
       ],
       "properties": {
-        "order": 45,
+        "order": 46,
         "id": 5,
         "name": "healthcare",
         "prevSize": 32,
@@ -87,7 +87,7 @@
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
-          "healthy-food"
+          "healthy_food"
         ]
       },
       "attrs": [
@@ -100,9 +100,9 @@
         {}
       ],
       "properties": {
-        "order": 44,
+        "order": 47,
         "id": 4,
-        "name": "healthy-food",
+        "name": "healthy_food",
         "prevSize": 32,
         "code": 59649
       },
@@ -141,7 +141,7 @@
         {}
       ],
       "properties": {
-        "order": 43,
+        "order": 48,
         "id": 3,
         "name": "office",
         "prevSize": 32,
@@ -179,7 +179,7 @@
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
-          "organic-products"
+          "organic_products"
         ]
       },
       "attrs": [
@@ -194,9 +194,9 @@
         {}
       ],
       "properties": {
-        "order": 42,
+        "order": 49,
         "id": 2,
-        "name": "organic-products",
+        "name": "organic_products",
         "prevSize": 32,
         "code": 59651
       },
@@ -234,7 +234,7 @@
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
-          "retail-seller"
+          "retail_seller"
         ]
       },
       "attrs": [
@@ -250,9 +250,9 @@
         {}
       ],
       "properties": {
-        "order": 41,
+        "order": 50,
         "id": 1,
-        "name": "retail-seller",
+        "name": "retail_seller",
         "prevSize": 32,
         "code": 59652
       },
@@ -321,7 +321,7 @@
         {}
       ],
       "properties": {
-        "order": 40,
+        "order": 51,
         "id": 0,
         "name": "sweetheart",
         "prevSize": 32,
