@@ -1,18 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-<<<<<<< HEAD
-  src:  url('fonts/icomoon.eot?nbyup8');
-  src:  url('fonts/icomoon.eot?nbyup8#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?nbyup8') format('truetype'),
-    url('fonts/icomoon.woff?nbyup8') format('woff'),
-    url('fonts/icomoon.svg?nbyup8#icomoon') format('svg');
-=======
-  src:  url('fonts/icomoon.eot?uyie8m');
-  src:  url('fonts/icomoon.eot?uyie8m#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?uyie8m') format('truetype'),
-    url('fonts/icomoon.woff?uyie8m') format('woff'),
-    url('fonts/icomoon.svg?uyie8m#icomoon') format('svg');
->>>>>>> 086fdef4102599d4695d51a13dab8b457f66f58b
+  src:  url('fonts/icomoon.eot?bde6l2');
+  src:  url('fonts/icomoon.eot?bde6l2#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?bde6l2') format('truetype'),
+    url('fonts/icomoon.woff?bde6l2') format('woff'),
+    url('fonts/icomoon.svg?bde6l2#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -32,10 +24,30 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-healthcare:before {
+  content: "\e900";
+}
+.icon-healthy-food:before {
+  content: "\e901";
+}
+.icon-office:before {
+  content: "\e902";
+}
+.icon-organic-products:before {
+  content: "\e903";
+}
+.icon-retail-seller:before {
+  content: "\e904";
+}
+.icon-sweetheart:before {
+  content: "\e905";
+}
+.icon-search:before {
+  content: "\f002";
+}
 .icon-heart:before {
   content: "\f004";
 }
-<<<<<<< HEAD
 .icon-check:before {
   content: "\f00c";
 }
@@ -48,13 +60,17 @@
 .icon-times:before {
   content: "\f00d";
 }
-=======
->>>>>>> 086fdef4102599d4695d51a13dab8b457f66f58b
+.icon-pencil:before {
+  content: "\f040";
+}
 .icon-shopping-cart:before {
   content: "\f07a";
 }
 .icon-heart-o:before {
   content: "\f08a";
+}
+.icon-file-text-o:before {
+  content: "\f0f6";
 }
 .icon-angle-left:before {
   content: "\f104";
@@ -74,9 +90,6 @@
 .icon-thumbs-down:before {
   content: "\f165";
 }
-.icon-joomla:before {
-  content: "\f1aa";
-}
 .icon-share-alt:before {
   content: "\f1e0";
 }
@@ -88,10 +101,4 @@
 }
 .icon-cart-arrow-down:before {
   content: "\f218";
-}
-.icon-atari:before {
-  content: "\e900";
-}
-.icon-ghaza-salem:before {
-  content: "\e901";
 }
