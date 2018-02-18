@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?ewzic');
-  src:  url('fonts/icomoon.eot?ewzic#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?ewzic') format('truetype'),
-    url('fonts/icomoon.woff?ewzic') format('woff'),
-    url('fonts/icomoon.svg?ewzic#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?eir0ha');
+  src:  url('fonts/icomoon.eot?eir0ha#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?eir0ha') format('truetype'),
+    url('fonts/icomoon.woff?eir0ha') format('woff'),
+    url('fonts/icomoon.svg?eir0ha#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,33 +24,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-geroceries:before {
-  content: "\e906";
-}
-.icon-recomanded:before {
-  content: "\e907";
-}
-.icon-shopping_cart:before {
-  content: "\e908";
-}
-.icon-healthcare:before {
-  content: "\e900";
-}
-.icon-healthy_food:before {
-  content: "\e901";
-}
-.icon-office:before {
-  content: "\e902";
-}
-.icon-organic_products:before {
-  content: "\e903";
-}
-.icon-retail_seller:before {
-  content: "\e904";
-}
-.icon-sweetheart:before {
-  content: "\e905";
-}
 .icon-search:before {
   content: "\f002";
 }
@@ -110,4 +83,31 @@
 }
 .icon-cart-arrow-down:before {
   content: "\f218";
+}
+.icon-geroceries:before {
+  content: "\e900";
+}
+.icon-healthcare:before {
+  content: "\e901";
+}
+.icon-healthy_food:before {
+  content: "\e902";
+}
+.icon-office:before {
+  content: "\e903";
+}
+.icon-organic_products:before {
+  content: "\e904";
+}
+.icon-recomanded:before {
+  content: "\e905";
+}
+.icon-retail_seller:before {
+  content: "\e906";
+}
+.icon-shopping_cart:before {
+  content: "\e907";
+}
+.icon-sweetheart:before {
+  content: "\e908";
 }
